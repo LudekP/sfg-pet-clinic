@@ -45,10 +45,9 @@
             </plugin>
         </plugins>
     </build>
-
     <scm>
-        <developerConnection>scm:git:git@192.168.1.3:Ballnazzar/sfg-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
-  </scm>
+        <developerConnection>scm:git:git@github.com:LudekP/sfg-pet-clinic.git</developerConnection>
+        <tag>HEAD</tag>
+    </scm>
 
 </project>
